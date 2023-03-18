@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 
 import './App.css';
 import Header from './components/Header';
@@ -27,6 +28,7 @@ function App() {
   }
 
 
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   const getNewPins =() =>{
     let promise = []
     let pinData=[]
