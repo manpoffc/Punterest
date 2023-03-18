@@ -1,5 +1,5 @@
-import { Pinterest } from "@mui/icons-material";
-import { Icon, IconButton } from "@mui/material";
+
+import {  IconButton } from "@mui/material";
 import PinterestIcon from '@mui/icons-material/Pinterest';
 import SearchIcon from '@mui/icons-material/Search';
 import NotificationsIcon from '@mui/icons-material/Notifications';
